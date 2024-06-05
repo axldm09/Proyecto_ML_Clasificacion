@@ -1,5 +1,6 @@
 # Description:
-This is repository contains the information of the final project of Machine learning.
+This repository contains the final project of Machine Learning. Major of Bachelors in Artificial Intelligence at Centro de Investion en Ciencias (UAEM)
+Created by Cristopher Axel Diaz Martinez.
 
 # Porpouse
 
